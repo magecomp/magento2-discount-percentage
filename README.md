@@ -4,3 +4,5 @@ Magento 2 Discount Percentage Extension by MageComp calculates and displays disc
 For more information read our Blog: https://magecomp.com/blog/display-percentage-discount-magento-2-product-details-page/
 
 Or checkout Extension https://magecomp.com/magento-2-discount-percentage.html
+
+
