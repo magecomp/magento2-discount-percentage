@@ -55,6 +55,8 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
+Website: [MageComp.com](http://magecomp.com/)
+
 ## Other Magento 2 Extensions by MageComp
 
 [Magento 2 MultiVendor SMS Notification Basic](https://magecomp.com/magento-2-multivendor-sms-notification-basic.html)
@@ -79,24 +81,24 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Magento Marketplace Extensions By MageComp
 
-[GeoIP Currency Switcher](https://marketplace.magento.com/magecomp-module-geocurrencystore.html)
+[Magento 2 GeoIP Currency Switcher](https://marketplace.magento.com/magecomp-module-geocurrencystore.html)
 
-[Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
+[Magento 2 Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
 
-[SMS Notification](https://marketplace.magento.com/magecomp-module-sms.html)
+[Magento 2 SMS Notification](https://marketplace.magento.com/magecomp-module-sms.html)
 
-[Surcharge](https://marketplace.magento.com/magecomp-module-surcharge.html)
+[Magento 2 Surcharge](https://marketplace.magento.com/magecomp-module-surcharge.html)
 
-[Recent Sales Notification](https://marketplace.magento.com/magecomp-module-recentsalesnotification.html)
+[Magento 2 Recent Sales Notification](https://marketplace.magento.com/magecomp-module-recentsalesnotification.html)
 
-[Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
+[Magento 2 Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
 
-[Ajax Login & Register](https://marketplace.magento.com/magecomp-magento-2-ajax-login-register.html)
+[Magento 2 Ajax Login & Register](https://marketplace.magento.com/magecomp-magento-2-ajax-login-register.html)
 
-[eviews Import](https://marketplace.magento.com/magecomp-module-reviewimport.html)
+[Magento 2 Reviews Import](https://marketplace.magento.com/magecomp-module-reviewimport.html)
 
-[Push Notifications](https://marketplace.magento.com/magecomp-magento-2-push-notifications.html)
+[Magento 2 Push Notifications](https://marketplace.magento.com/magecomp-magento-2-push-notifications.html)
 
-[Shop by Brand](https://marketplace.magento.com/magecomp-magento-2-shop-by-brand.html)
+[Magento 2 Shop by Brand](https://marketplace.magento.com/magecomp-magento-2-shop-by-brand.html)
 
 For more information read our Blog: https://magecomp.com/blog/display-percentage-discount-magento-2-product-details-page/
