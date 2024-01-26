@@ -1,104 +1,87 @@
-# [Magento 2 Discount Percentage](https://magecomp.com/magento-2-discount-percentage.html) by MageComp
+# Magento 2 Discount Percentage Extension
 
-With Magento 2 Discount Percentage Extension by MageComp, discount percentages are calculated and displayed on product pages when promotional prices are applied to a product.
+![Screenshot (13)](https://github.com/magecomp/magento2-discount-percentage/assets/8856845/836dc0c0-da03-4910-a0fd-f0938ad8b090)
+
+The Magento 2 Discount plugin calculates and shows the discount % on the product page when the product has a special price.
 
 <a href="https://magecomp.com/magento-2-discount-percentage.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
-## Requirements
-* Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+# Contribute & Explore Your Coding Skills
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Discount Percentage module. Be ready to hit your keyboard keys & get listed today!
 
-## Main Feature
+<a href="https://github.com/magecomp/magento2-discount-percentage/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento2-discount-percentage" />
+</a>
 
-* Showing on Frontend
+# Features
 
-Show discount percentage right on the product page. 
+* Show the discount % on product pages.
 
-* Automatically Calculate Percentage
+* If a product has special pricing, the percentage is automatically calculated.
 
-When users add the products, discount percentage automatically showing on the product page. 
+* Help customers make quick purchasing decisions.
 
-## Benefits
+* Option to enable or disable the extension.
 
-* Increase user experience
+* Display a discounted % on the storefront.
 
-The extension will automatically calculate the discount percentage for a specific product if the admin has set a special price for that product.
+* Automatically determine the discount percentage for products with special pricing.
 
-* Easy to use
+# What About the Pricing?
 
-Admin can enable and disable extension easily from the backend. 
+* It's completely FREE OF CHARGE.
 
-##Screenshot
+# Compatibility with Magento Versions
 
-**1. Configuration**
+* Magento 2.2.0 - 2.4.X (CE, EE, ECE)
 
+# Installing Via Composer
+  
+<img src="https://i.ibb.co/NjGRFCt/composer.png">
+Specify project dependencies using a JSON file & leave everything to Composer.
+
+# Compatible with Hyvä 
+
+![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
+
+
+# Configuration
+* Option to enable or disable discount percentage in frontend.
+  
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1_configuration_12_37.webp)
 
-**2. Discount Percent on Product Page**
+# Let's Check How It Works
+* Once enabled from the backend, the extension will show the discount percentage on the frontend product page. The plugin will automatically retrieve the product's special price and calculate the discount % accordingly.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/2/_/2_discount_percentage_on_product_page_1.webp)
 
-## Change Log
+* Discount Percentage supported for Grouped Products
 
-**version 1.0.1**
+![5](https://github.com/magecomp/magento2-discount-percentage/assets/8856845/011f8a9e-bf04-466d-8bc8-ed4b706668a1)
 
-Compatible with Magento 2.3.3 Latest Magento version
+* Discount Percentage supported for Configurable Products with Dropdown option
 
-## Support
+![6](https://github.com/magecomp/magento2-discount-percentage/assets/8856845/39e3a522-96bb-47c2-85a1-496f2ddcf07d)
 
-In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
+* Discount Percentage supported for Configurable Products with Swatch option
 
-## Contact us
+![7](https://github.com/magecomp/magento2-discount-percentage/assets/8856845/531cea22-fc4a-48bc-81b1-63d349ec50e8)
 
-In case you would want to contact us, reach out to us at:
+# Support
 
-Phone: +917990250277
+Write to us at our [Support Portal](https://magecomp.com/support/) for queries about our Magento 2 extensions or services.
 
-Email: [support@magecomp.com](mailto:support@magecomp.com)
+# Contact Us
+**MageComp**
 
-Website: [MageComp.com](http://magecomp.com/)
+**Head Quarters:** 304-305, Eva Surbhi Complex, Waghawadi Road, Bhavnagar, Gujarat (India)
 
-## Other Magento 2 Extensions by MageComp
+**Branch:** 1212, Shilp Zaveri, Shyamal Cross Road, Satellite, Ahmedabad, Gujarat, India.
 
-[Magento 2 MultiVendor SMS Notification Basic](https://magecomp.com/magento-2-multivendor-sms-notification-basic.html)
+**Representative office:** 9 Sunbird Crescent, Scarborough M1V3M6 (Canada)
 
-[Magento 2 MultiVendor WhatsApp Contact Pro](https://magecomp.com/magento-2-multivendor-whatsapp-contact-pro.html)
+**Phone:** +91 79902 50277
 
-[Magento 2 Square Payment Gateway](https://magecomp.com/magento-2-square-payment-gateway.html)
+**Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
-[Magento 2 WhatsApp Order Notification Ultimate](https://magecomp.com/magento-2-whatsapp-order-notification-ultimate.html)
-
-[Magento 2 Auto Invoice and Shipment](https://magecomp.com/magento-2-auto-invoice-and-shipment.html)
-
-[Magento 2 Save Cart Pro](https://magecomp.com/magento-2-save-cart-pro.html)
-
-[Magento 2 Email Quote Pro](https://magecomp.com/magento-2-email-quote-pro.html)
-
-[Magento 2 Instagram Feed Integration Pro](https://magecomp.com/magento-2-instagram-feed-integration-pro.html)
-
-[Magento 2 SMS Notification Pro](https://magecomp.com/magento-2-sms-notification-pro.html)
-
-[Magento 2 Edge Express Payment Gateway](https://magecomp.com/magento-2-edge-express-payment-gateway.html)
-
-## Magento Marketplace Extensions By MageComp
-
-[Magento 2 GeoIP Currency Switcher](https://marketplace.magento.com/magecomp-module-geocurrencystore.html)
-
-[Magento 2 Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
-
-[Magento 2 SMS Notification](https://marketplace.magento.com/magecomp-module-sms.html)
-
-[Magento 2 Surcharge](https://marketplace.magento.com/magecomp-module-surcharge.html)
-
-[Magento 2 Recent Sales Notification](https://marketplace.magento.com/magecomp-module-recentsalesnotification.html)
-
-[Magento 2 Instagram Integration Pro](https://marketplace.magento.com/magecomp-instapro.html)
-
-[Magento 2 Ajax Login & Register](https://marketplace.magento.com/magecomp-magento-2-ajax-login-register.html)
-
-[Magento 2 Reviews Import](https://marketplace.magento.com/magecomp-module-reviewimport.html)
-
-[Magento 2 Push Notifications](https://marketplace.magento.com/magecomp-magento-2-push-notifications.html)
-
-[Magento 2 Shop by Brand](https://marketplace.magento.com/magecomp-magento-2-shop-by-brand.html)
-
-For more information read our Blog: https://magecomp.com/blog/display-percentage-discount-magento-2-product-details-page/
+<img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
